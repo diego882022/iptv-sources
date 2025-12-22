@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -15,4 +15,4 @@
 | 9 | 陕西卫视 | IPv4 直链 | <http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 山东生活 | IPv4 直链 | <http://221.2.148.205:8154/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Dec 22 2025 04:31:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 22 2025 06:01:32 GMT+0000 (Coordinated Universal Time)**
